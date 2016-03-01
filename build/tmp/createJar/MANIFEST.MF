@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: Association Rules Miner
+Implementation-Version: 1.0
+Main-Class: no.ntnu.idi.tdt4300.apriori.Apriori
+
